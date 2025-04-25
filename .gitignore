@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Streamlit-specific
+.streamlit/
+
+# Output folders
+data/
+output/
+
+# Reports
+*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
